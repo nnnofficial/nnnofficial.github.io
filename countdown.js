@@ -1,4 +1,4 @@
-<center><h1 id="countdown"></h1></center>
+<p id="countdown"></p>
 
 <script>
 var countDownDate = new Date("2019-12-01T00:00:00Z").getTime();

@@ -1,0 +1,2032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<document>
+   <codigo id="36-172">
+      <prefijo>ODO</prefijo>
+      <cantidad>12</cantidad>
+      <categoria>RONGEURS</categoria>
+      <caracteristicas>BLUMENTHAL 6¨ 30¨ STANDARD</caracteristicas>
+   </codigo>
+   <codigo id="36-173">
+      <prefijo>ODO</prefijo>
+      <cantidad>126</cantidad>
+      <categoria>RONGEURS</categoria>
+      <caracteristicas>BLUMENTHAL 6¨ 45¨</caracteristicas>
+   </codigo>
+   <codigo id="36-174">
+      <prefijo>ODO</prefijo>
+      <cantidad>79</cantidad>
+      <categoria>RONGEURS</categoria>
+      <caracteristicas>BLUMENTHAL 6¨ 90¨</caracteristicas>
+   </codigo>
+   <codigo id="36-187">
+      <prefijo>ODO</prefijo>
+      <cantidad>40</cantidad>
+      <categoria>RONGEURS</categoria>
+      <caracteristicas>No. 4A-6 1/2</caracteristicas>
+   </codigo>
+   <codigo id="36-189">
+      <prefijo>ODO</prefijo>
+      <cantidad>28</cantidad>
+      <categoria>RONGEURS</categoria>
+      <caracteristicas>BEYER, DOUBLE ACTION 7¨</caracteristicas>
+   </codigo>
+   <codigo id="37-236">
+      <prefijo>ODO</prefijo>
+      <cantidad>120</cantidad>
+      <categoria>MOUTH GAGS</categoria>
+      <caracteristicas>MOLT, CHILD SIZE 1/2</caracteristicas>
+   </codigo>
+   <codigo id="37-237">
+      <prefijo>ODO</prefijo>
+      <cantidad>131</cantidad>
+      <categoria>MOUTH GAGS</categoria>
+      <caracteristicas>MOLT, ADULT, SIZE 1/2</caracteristicas>
+   </codigo>
+   <codigo id="38-239">
+      <prefijo>ODO</prefijo>
+      <cantidad>44</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>DEAN 6 3/4 ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-243">
+      <prefijo>ODO</prefijo>
+      <cantidad>95</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>G-F5, CURVED FINE TIPS, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-245">
+      <prefijo>ODO</prefijo>
+      <cantidad>55</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 3 1/2, STRAIGHT, EXTRA DELICATE</caracteristicas>
+   </codigo>
+   <codigo id="38-246">
+      <prefijo>ODO</prefijo>
+      <cantidad>20</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 3 1/2, CURVED, EXTRA DELICATE</caracteristicas>
+   </codigo>
+   <codigo id="38-247">
+      <prefijo>ODO</prefijo>
+      <cantidad>493</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 4, STRAIGHT</caracteristicas>
+   </codigo>
+   <codigo id="38-248">
+      <prefijo>ODO</prefijo>
+      <cantidad>425</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 4, CURVED</caracteristicas>
+   </codigo>
+   <codigo id="38-251">
+      <prefijo>ODO</prefijo>
+      <cantidad>79</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 5 1/2, CURVED, B/B</caracteristicas>
+   </codigo>
+   <codigo id="38-252">
+      <prefijo>ODO</prefijo>
+      <cantidad>95</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS PATTERN 5, CURVED, B/B DELICATE</caracteristicas>
+   </codigo>
+   <codigo id="38-253">
+      <prefijo>ODO</prefijo>
+      <cantidad>41</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS 4 1/2, CURVED, SIDEWAYS</caracteristicas>
+   </codigo>
+   <codigo id="38-254">
+      <prefijo>ODO</prefijo>
+      <cantidad>67</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>IRIS 4 1/2, ANGLED ON SIDE</caracteristicas>
+   </codigo>
+   <codigo id="38-255">
+      <prefijo>ODO</prefijo>
+      <cantidad>95</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/S STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-256">
+      <prefijo>ODO</prefijo>
+      <cantidad>68</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4,S/S  STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-257">
+      <prefijo>ODO</prefijo>
+      <cantidad>127</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/B, STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-258">
+      <prefijo>ODO</prefijo>
+      <cantidad>202</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/B, STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-259">
+      <prefijo>ODO</prefijo>
+      <cantidad>203</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, B/B, STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-260">
+      <prefijo>ODO</prefijo>
+      <cantidad>180</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, B/B, STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-261">
+      <prefijo>ODO</prefijo>
+      <cantidad>109</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/S, CURVED, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-262">
+      <prefijo>ODO</prefijo>
+      <cantidad>157</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/S, CURVED, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-263">
+      <prefijo>ODO</prefijo>
+      <cantidad>196</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/B, CURVED, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-264">
+      <prefijo>ODO</prefijo>
+      <cantidad>202</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, S/B, CURVED, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-265">
+      <prefijo>ODO</prefijo>
+      <cantidad>329</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, B/B, CURVED, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-266">
+      <prefijo>ODO</prefijo>
+      <cantidad>78</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>WAGNER 4 3/4, B/B, CURVED, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-270">
+      <prefijo>ODO</prefijo>
+      <cantidad>123</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>LA GRANGE 4 1/2, IMPRO ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-272">
+      <prefijo>ODO</prefijo>
+      <cantidad>112</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>KELLY 6 1/4, S/S STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-274">
+      <prefijo>ODO</prefijo>
+      <cantidad>92</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>KELLY 5 1/4, S/S CURVED, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-275">
+      <prefijo>ODO</prefijo>
+      <cantidad>196</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>KELLY 6 1/4, S/S ANGULAR, SMOOTTH</caracteristicas>
+   </codigo>
+   <codigo id="38-276">
+      <prefijo>ODO</prefijo>
+      <cantidad>136</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>KELLY 6 1/4, S/S ANGULAR,  ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-279">
+      <prefijo>ODO</prefijo>
+      <cantidad>19</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>SULLIVAN 5 1/2 STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-282">
+      <prefijo>ODO</prefijo>
+      <cantidad>37</cantidad>
+      <categoria>GUM SCISSORS</categoria>
+      <caracteristicas>ROSS 4 3/4, CURVED, PERIODONTAL</caracteristicas>
+   </codigo>
+   <codigo id="38-286">
+      <prefijo>ODO</prefijo>
+      <cantidad>205</cantidad>
+      <categoria>BANDAGE SCISSORS</categoria>
+      <caracteristicas>LISTER BANDAGE 4 1/2</caracteristicas>
+   </codigo>
+   <codigo id="38-287">
+      <prefijo>ODO</prefijo>
+      <cantidad>75</cantidad>
+      <categoria>BANDAGE SCISSORS</categoria>
+      <caracteristicas>LISTER BANDAGE 5 1/2</caracteristicas>
+   </codigo>
+   <codigo id="38-288">
+      <prefijo>ODO</prefijo>
+      <cantidad>64</cantidad>
+      <categoria>BANDAGE SCISSORS</categoria>
+      <caracteristicas>LISTER BANDAGE 7 1/4</caracteristicas>
+   </codigo>
+   <codigo id="38-291">
+      <prefijo>ODO</prefijo>
+      <cantidad>91</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>5 1/2 STRAIGHT, S/S</caracteristicas>
+   </codigo>
+   <codigo id="38-292">
+      <prefijo>ODO</prefijo>
+      <cantidad>369</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>4 1/2, STRAIGHT, S/B</caracteristicas>
+   </codigo>
+   <codigo id="38-293">
+      <prefijo>ODO</prefijo>
+      <cantidad>15</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>5 1/2 STRAIGHT, S/B</caracteristicas>
+   </codigo>
+   <codigo id="38-295">
+      <prefijo>ODO</prefijo>
+      <cantidad>222</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>5 1/2 CURVED, S/S</caracteristicas>
+   </codigo>
+   <codigo id="38-297">
+      <prefijo>ODO</prefijo>
+      <cantidad>220</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>5 1/2 CURVED, S/B</caracteristicas>
+   </codigo>
+   <codigo id="38-298">
+      <prefijo>ODO</prefijo>
+      <cantidad>3</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>MAYO 5 1/2, STRAIGHT</caracteristicas>
+   </codigo>
+   <codigo id="38-299">
+      <prefijo>ODO</prefijo>
+      <cantidad>16</cantidad>
+      <categoria>SURGICAL SCISSORS</categoria>
+      <caracteristicas>MAYO 5 1/2 CURVED</caracteristicas>
+   </codigo>
+   <codigo id="38-305">
+      <prefijo>ODO</prefijo>
+      <cantidad>83</cantidad>
+      <categoria>SUTURE SCISSORS</categoria>
+      <caracteristicas>NS 4 1/2, ANGULAR </caracteristicas>
+   </codigo>
+   <codigo id="38-307">
+      <prefijo>ODO</prefijo>
+      <cantidad>58</cantidad>
+      <categoria>WIRE CUTTING SCISSORS</categoria>
+      <caracteristicas>4 1/4 STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-308">
+      <prefijo>ODO</prefijo>
+      <cantidad>16</cantidad>
+      <categoria>WIRE CUTTING SCISSORS</categoria>
+      <caracteristicas>4 1/4 STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-309">
+      <prefijo>ODO</prefijo>
+      <cantidad>19</cantidad>
+      <categoria>WIRE CUTTING SCISSORS</categoria>
+      <caracteristicas>4 1/4 STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="38-311">
+      <prefijo>ODO</prefijo>
+      <cantidad>735</cantidad>
+      <categoria>WIRE CUTTING SCISSORS</categoria>
+      <caracteristicas>4 3/4 STRAIGHT, SMOOTH</caracteristicas>
+   </codigo>
+   <codigo id="38-313">
+      <prefijo>ODO</prefijo>
+      <cantidad>62</cantidad>
+      <categoria>WIRE CUTTING SCISSORS</categoria>
+      <caracteristicas>4 3/4 STRAIGHT, ONE SERRATED BLADE</caracteristicas>
+   </codigo>
+   <codigo id="40-377">
+      <prefijo>POR</prefijo>
+      <cantidad>118</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>GARDNER 5</caracteristicas>
+   </codigo>
+   <codigo id="40-378">
+      <prefijo>POR</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>MATHIEU 5 1/2</caracteristicas>
+   </codigo>
+   <codigo id="40-379">
+      <prefijo>POR</prefijo>
+      <cantidad>218</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>MATHIEU 6 1/4</caracteristicas>
+   </codigo>
+   <codigo id="40-380TC">
+      <prefijo>POR</prefijo>
+      <cantidad>91</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>MATHIEU 5 1/2 T.CARBIDE JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-383">
+      <prefijo>POR</prefijo>
+      <cantidad>49</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>MAYO HEGAR 5</caracteristicas>
+   </codigo>
+   <codigo id="40-397">
+      <prefijo>POR</prefijo>
+      <cantidad>133</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>CASTROVIEJO 5 1/2 SMOOTH JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-398">
+      <prefijo>POR</prefijo>
+      <cantidad>54</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>CASTROVIEJO 5 1/2, STRAIGHT, SMOOTH T-CARBIDE JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-399">
+      <prefijo>POR</prefijo>
+      <cantidad>54</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>CASTROVIEJO 5 1/2, STRAIGHT, SERRATED-CARBIDE JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-400">
+      <prefijo>POR</prefijo>
+      <cantidad>75</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>CASTROVIEJO 5 1/2, CURVED, SMOOTH-CARBIDE JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-401">
+      <prefijo>POR</prefijo>
+      <cantidad>71</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>CASTROVIEJO 5 1/2, CURVED, SERRATED-CARBIDE JAWS</caracteristicas>
+   </codigo>
+   <codigo id="40-402">
+      <prefijo>POR</prefijo>
+      <cantidad>35</cantidad>
+      <categoria>NEEDLE HOLDERS</categoria>
+      <caracteristicas>STEVEVENS 6 1/2</caracteristicas>
+   </codigo>
+   <codigo id="41-403-A (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>15</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-403-B (L)">
+      <prefijo>ODO</prefijo>
+      <cantidad>6</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-403B (S)">
+      <prefijo>ODO</prefijo>
+      <cantidad>32</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-403-B (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>27</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-404-A (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>1</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-404-B (S)">
+      <prefijo>ODO</prefijo>
+      <cantidad>1</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-405-A (XL)">
+      <prefijo>ODO</prefijo>
+      <cantidad>47</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-405-A (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>40</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-405-B (S)">
+      <prefijo>ODO</prefijo>
+      <cantidad>41</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-405-B (XL)">
+      <prefijo>ODO</prefijo>
+      <cantidad>22</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-405-B (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>3</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406 B (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>13</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406-A (L)">
+      <prefijo>ODO</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406-A (XL)">
+      <prefijo>ODO</prefijo>
+      <cantidad>11</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406-B (L)">
+      <prefijo>ODO</prefijo>
+      <cantidad>14</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406-B (XL)">
+      <prefijo>ODO</prefijo>
+      <cantidad>23</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-406B (XS)">
+      <prefijo>ODO</prefijo>
+      <cantidad>41</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>PERFORATED RIM LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-800-A (L)">
+      <prefijo>ODO</prefijo>
+      <cantidad>24</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-800-A (M)">
+      <prefijo>ODO</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-800-A(S)">
+      <prefijo>ODO</prefijo>
+      <cantidad>4</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="41-800-B(S)">
+      <prefijo>ODO</prefijo>
+      <cantidad>1</cantidad>
+      <categoria>IMPRESSION TRAYS</categoria>
+      <caracteristicas>NON PERFORATED RIN LOCK</caracteristicas>
+   </codigo>
+   <codigo id="42-329">
+      <prefijo>DIS</prefijo>
+      <cantidad>10</cantidad>
+      <categoria>TISSUE FORCEPS</categoria>
+      <caracteristicas>BROWN 6 8X8 TEETH</caracteristicas>
+   </codigo>
+   <codigo id="42-330">
+      <prefijo>DIS</prefijo>
+      <cantidad>13</cantidad>
+      <categoria>TISSUE FORCEPS</categoria>
+      <caracteristicas>RUSSIAN 6</caracteristicas>
+   </codigo>
+   <codigo id="42-333">
+      <prefijo>DIS</prefijo>
+      <cantidad>70</cantidad>
+      <categoria>DRESSING FORCEPS</categoria>
+      <caracteristicas>5 1/2 DRESSING</caracteristicas>
+   </codigo>
+   <codigo id="42-334">
+      <prefijo>DIS</prefijo>
+      <cantidad>207</cantidad>
+      <categoria>DRESSING FORCEPS</categoria>
+      <caracteristicas>6 DRESSING</caracteristicas>
+   </codigo>
+   <codigo id="42-338">
+      <prefijo>DIS</prefijo>
+      <cantidad>96</cantidad>
+      <categoria>DRESSING FORCEPS</categoria>
+      <caracteristicas>4 DRESSING EXTRA DEDICATE TIPS</caracteristicas>
+   </codigo>
+   <codigo id="42-339">
+      <prefijo>DIS</prefijo>
+      <cantidad>100</cantidad>
+      <categoria>DRESSING FORCEPS</categoria>
+      <caracteristicas>ADSON 4 3/4 DRESSING</caracteristicas>
+   </codigo>
+   <codigo id="43-202">
+      <prefijo>ODO</prefijo>
+      <cantidad>137</cantidad>
+      <categoria>BONE CURETTES</categoria>
+      <caracteristicas>#2/4</caracteristicas>
+   </codigo>
+   <codigo id="43-203">
+      <prefijo>ODO</prefijo>
+      <cantidad>50</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#10</caracteristicas>
+   </codigo>
+   <codigo id="43-204">
+      <prefijo>ODO</prefijo>
+      <cantidad>102</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#33</caracteristicas>
+   </codigo>
+   <codigo id="43-206">
+      <prefijo>ODO</prefijo>
+      <cantidad>94</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#45-MILLER</caracteristicas>
+   </codigo>
+   <codigo id="43-207">
+      <prefijo>ODO</prefijo>
+      <cantidad>577</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#12-HOWARD</caracteristicas>
+   </codigo>
+   <codigo id="43-208">
+      <prefijo>ODO</prefijo>
+      <cantidad>40</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#12A</caracteristicas>
+   </codigo>
+   <codigo id="43-209">
+      <prefijo>ODO</prefijo>
+      <cantidad>196</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#12CA</caracteristicas>
+   </codigo>
+   <codigo id="43-210">
+      <prefijo>ODO</prefijo>
+      <cantidad>361</cantidad>
+      <categoria>BONE FILES</categoria>
+      <caracteristicas>#1-POLOKOFF</caracteristicas>
+   </codigo>
+   <codigo id="43-211">
+      <prefijo>ODO</prefijo>
+      <cantidad>153</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>GARDNER #1</caracteristicas>
+   </codigo>
+   <codigo id="43-212">
+      <prefijo>ODO</prefijo>
+      <cantidad>333</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>GARDNER #2</caracteristicas>
+   </codigo>
+   <codigo id="43-214">
+      <prefijo>ODO</prefijo>
+      <cantidad>114</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>GARDNER #5R</caracteristicas>
+   </codigo>
+   <codigo id="43-215">
+      <prefijo>ODO</prefijo>
+      <cantidad>215</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>GARDNER #6</caracteristicas>
+   </codigo>
+   <codigo id="43-216">
+      <prefijo>ODO</prefijo>
+      <cantidad>202</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>BUCKLEY #3</caracteristicas>
+   </codigo>
+   <codigo id="43-217">
+      <prefijo>ODO</prefijo>
+      <cantidad>227</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>WAKEFIELD #1W</caracteristicas>
+   </codigo>
+   <codigo id="43-218">
+      <prefijo>ODO</prefijo>
+      <cantidad>192</cantidad>
+      <categoria>BONE CHISELS</categoria>
+      <caracteristicas>WAKEFIELD #2W</caracteristicas>
+   </codigo>
+   <codigo id="44-219">
+      <prefijo>ODO</prefijo>
+      <cantidad>24</cantidad>
+      <categoria>MALLETS</categoria>
+      <caracteristicas>GERZOG MALLET 7 1/2 HEAD 8OZ. LEAD FILLED WITH STAINLESS JACKET</caracteristicas>
+   </codigo>
+   <codigo id="44-220">
+      <prefijo>ODO</prefijo>
+      <cantidad>22</cantidad>
+      <categoria>MALLETS</categoria>
+      <caracteristicas>MALLET 7 1/2, LIGHTWEIGHT 7,5 OZ STAINLESS HEAD WITH TWO REPLACEABLE NYLON CAPS</caracteristicas>
+   </codigo>
+   <codigo id="44-222">
+      <prefijo>ODO</prefijo>
+      <cantidad>27</cantidad>
+      <categoria>MALLETS</categoria>
+      <caracteristicas>MEAD MALLET 7 1/2 HEAD 8OZ. WITH REPLACEABLE NYON CAPS</caracteristicas>
+   </codigo>
+   <codigo id="44-224">
+      <prefijo>ODO</prefijo>
+      <cantidad>50</cantidad>
+      <categoria>BONE HOLDING FORCEPS</categoria>
+      <caracteristicas>BABY KERN BONE HOLDING FORCEPS 6 WITH RATCHET</caracteristicas>
+   </codigo>
+   <codigo id="45-230">
+      <prefijo>ODO</prefijo>
+      <cantidad>895</cantidad>
+      <categoria>TONGUE DEPRESSOR</categoria>
+      <caracteristicas>WIEDER TONGUE DEPRESSOR, SMALL BLADE 28MM WIDE, SERRATED</caracteristicas>
+   </codigo>
+   <codigo id="45-232">
+      <prefijo>ODO</prefijo>
+      <cantidad>188</cantidad>
+      <categoria>TONGUE SEIZING FORCEPS</categoria>
+      <caracteristicas>YOUNG TONGUE SEIZING FORCEPS</caracteristicas>
+   </codigo>
+   <codigo id="45-234">
+      <prefijo>ODO</prefijo>
+      <cantidad>57</cantidad>
+      <categoria>TONGUE DEPRESSOR</categoria>
+      <caracteristicas>ANDREWS TONGUE DEPRESSOR SERRATED BLADE 21MM WIDE</caracteristicas>
+   </codigo>
+   <codigo id="46-418">
+      <prefijo>ODO</prefijo>
+      <cantidad>19</cantidad>
+      <categoria>COTTON AND DRESSING PLIERS</categoria>
+      <caracteristicas>COLLEGE STANDARD TIPS, SERRATED</caracteristicas>
+   </codigo>
+   <codigo id="46-425">
+      <prefijo>ODO</prefijo>
+      <cantidad>150</cantidad>
+      <categoria>COTTON AND DRESSING PLIERS</categoria>
+      <caracteristicas>MERIAM</caracteristicas>
+   </codigo>
+   <codigo id="46-427">
+      <prefijo>ODO</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>COTTON AND DRESSING PLIERS</categoria>
+      <caracteristicas>PERRY</caracteristicas>
+   </codigo>
+   <codigo id="46-428">
+      <prefijo>ODO</prefijo>
+      <cantidad>551</cantidad>
+      <categoria>COTTON AND DRESSING PLIERS</categoria>
+      <caracteristicas>SELF-LOCKING SERRATED TIPS</caracteristicas>
+   </codigo>
+   <codigo id="46-429">
+      <prefijo>ODO</prefijo>
+      <cantidad>184</cantidad>
+      <categoria>COTTON AND DRESSING PLIERS</categoria>
+      <caracteristicas>SELF-LOCKING GROOVED TIPS</caracteristicas>
+   </codigo>
+   <codigo id="46-437">
+      <prefijo>ODO</prefijo>
+      <cantidad>41</cantidad>
+      <categoria>MOUTH MIRRORS AND HANDLES</categoria>
+      <caracteristicas>OCTAGONAL, CONE SOCKET</caracteristicas>
+   </codigo>
+   <codigo id="46-438">
+      <prefijo>ODO</prefijo>
+      <cantidad>8293</cantidad>
+      <categoria>MOUTH MIRRORS AND HANDLES</categoria>
+      <caracteristicas>OCTAGONAL, SIMPLE STEM</caracteristicas>
+   </codigo>
+   <codigo id="46-439">
+      <prefijo>ODO</prefijo>
+      <cantidad>107</cantidad>
+      <categoria>MOUTH MIRRORS AND HANDLES</categoria>
+      <caracteristicas>DELUXE, CONE SOCKET</caracteristicas>
+   </codigo>
+   <codigo id="46-442">
+      <prefijo>ODO</prefijo>
+      <cantidad>517</cantidad>
+      <categoria>HANDLES</categoria>
+      <caracteristicas>DOUBLE ENDED FOR CONE SOCKET POINTS</caracteristicas>
+   </codigo>
+   <codigo id="46-620-06">
+      <prefijo>ORL</prefijo>
+      <cantidad>2</cantidad>
+      <categoria />
+      <caracteristicas>CURETA BECKMAN ADENOIDE</caracteristicas>
+   </codigo>
+   <codigo id="47-226">
+      <prefijo />
+      <cantidad>138</cantidad>
+      <categoria>LIP AND CHEEK RETRACTORS</categoria>
+      <caracteristicas>LIP RETRACTOR 6 DOUBLE END 25MM AND 36MM WIDE</caracteristicas>
+   </codigo>
+   <codigo id="48-347">
+      <prefijo />
+      <cantidad>99</cantidad>
+      <categoria>TISSUE RETRACTORS </categoria>
+      <caracteristicas>6, 2 SHARP PRONGS</caracteristicas>
+   </codigo>
+   <codigo id="48-348">
+      <prefijo />
+      <cantidad>101</cantidad>
+      <categoria>TISSUE RETRACTORS </categoria>
+      <caracteristicas>6, 3 SHARP PRONGS</caracteristicas>
+   </codigo>
+   <codigo id="48-349">
+      <prefijo />
+      <cantidad>72</cantidad>
+      <categoria>TISSUE RETRACTORS </categoria>
+      <caracteristicas>SENN 6 3/8 3 SHARP PRONGS</caracteristicas>
+   </codigo>
+   <codigo id="48-350">
+      <prefijo />
+      <cantidad>265</cantidad>
+      <categoria>TISSUE RETRACTORS </categoria>
+      <caracteristicas>5 1/2 TISSUE FIXATOR</caracteristicas>
+   </codigo>
+   <codigo id="48-351">
+      <prefijo />
+      <cantidad>141</cantidad>
+      <categoria>HOOKS</categoria>
+      <caracteristicas>FRAZIER 5 SHARP</caracteristicas>
+   </codigo>
+   <codigo id="48-352">
+      <prefijo />
+      <cantidad>173</cantidad>
+      <categoria>HOOKS</categoria>
+      <caracteristicas>FRAZIER 5 BLUNT</caracteristicas>
+   </codigo>
+   <codigo id="49-355">
+      <prefijo />
+      <cantidad>1</cantidad>
+      <categoria>TOWEL CLAMPS</categoria>
+      <caracteristicas>BACKHAUS 5 1/4</caracteristicas>
+   </codigo>
+   <codigo id="49-357">
+      <prefijo />
+      <cantidad>11</cantidad>
+      <categoria>TOWEL CLAMPS </categoria>
+      <caracteristicas>LORNA 5 1/4</caracteristicas>
+   </codigo>
+   <codigo id="50-266">
+      <prefijo>ODO</prefijo>
+      <cantidad>1298</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="50-40-89">
+      <prefijo>ODO</prefijo>
+      <cantidad>200</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="50-424">
+      <prefijo>ODO</prefijo>
+      <cantidad>95</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="50-449">
+      <prefijo>ODO</prefijo>
+      <cantidad>102</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>1DE</caracteristicas>
+   </codigo>
+   <codigo id="50-450">
+      <prefijo>ODO</prefijo>
+      <cantidad>177</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>2DE</caracteristicas>
+   </codigo>
+   <codigo id="50-451">
+      <prefijo />
+      <cantidad>93</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>3DE</caracteristicas>
+   </codigo>
+   <codigo id="50-452">
+      <prefijo>ODO</prefijo>
+      <cantidad>3783</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>5DE</caracteristicas>
+   </codigo>
+   <codigo id="50-453">
+      <prefijo>ODO</prefijo>
+      <cantidad>387</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>6DE</caracteristicas>
+   </codigo>
+   <codigo id="50-454">
+      <prefijo>ODO</prefijo>
+      <cantidad>353</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>7DE</caracteristicas>
+   </codigo>
+   <codigo id="50-455">
+      <prefijo>ODO</prefijo>
+      <cantidad>123</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>3A SE</caracteristicas>
+   </codigo>
+   <codigo id="50-456">
+      <prefijo>ODO</prefijo>
+      <cantidad>322</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>6SE</caracteristicas>
+   </codigo>
+   <codigo id="50-457">
+      <prefijo>ODO</prefijo>
+      <cantidad>323</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>7SE</caracteristicas>
+   </codigo>
+   <codigo id="50-458">
+      <prefijo>ODO</prefijo>
+      <cantidad>374</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>17SE</caracteristicas>
+   </codigo>
+   <codigo id="50-460">
+      <prefijo>ODO</prefijo>
+      <cantidad>12</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#2D-L</caracteristicas>
+   </codigo>
+   <codigo id="50-461">
+      <prefijo>ODO</prefijo>
+      <cantidad>326</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#3D-L</caracteristicas>
+   </codigo>
+   <codigo id="50-462">
+      <prefijo>ODO</prefijo>
+      <cantidad>134</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#3CHK-L</caracteristicas>
+   </codigo>
+   <codigo id="50-463">
+      <prefijo>ODO</prefijo>
+      <cantidad>1</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#5D-L</caracteristicas>
+   </codigo>
+   <codigo id="50-464">
+      <prefijo>ODO</prefijo>
+      <cantidad>894</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#G16D-L</caracteristicas>
+   </codigo>
+   <codigo id="50-465">
+      <prefijo>ODO</prefijo>
+      <cantidad>358</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#3AS-L</caracteristicas>
+   </codigo>
+   <codigo id="50-467">
+      <prefijo>ODO</prefijo>
+      <cantidad>257</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#17S-L</caracteristicas>
+   </codigo>
+   <codigo id="50-468">
+      <prefijo>ODO</prefijo>
+      <cantidad>38</cantidad>
+      <categoria>EXPLORERS</categoria>
+      <caracteristicas>#23S-L</caracteristicas>
+   </codigo>
+   <codigo id="50-470">
+      <prefijo>ODO</prefijo>
+      <cantidad>498</cantidad>
+      <categoria>PROBES</categoria>
+      <caracteristicas>PROBE GF 18</caracteristicas>
+   </codigo>
+   <codigo id="50-472">
+      <prefijo>ODO</prefijo>
+      <cantidad>163</cantidad>
+      <categoria>PROBES</categoria>
+      <caracteristicas>PROBE C</caracteristicas>
+   </codigo>
+   <codigo id="50-473">
+      <prefijo>ODO</prefijo>
+      <cantidad>97</cantidad>
+      <categoria>PROBES</categoria>
+      <caracteristicas>PROBE X2</caracteristicas>
+   </codigo>
+   <codigo id="50-474">
+      <prefijo>ODO</prefijo>
+      <cantidad>323</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#14</caracteristicas>
+   </codigo>
+   <codigo id="50-476">
+      <prefijo>ODO</prefijo>
+      <cantidad>261</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#18</caracteristicas>
+   </codigo>
+   <codigo id="50-478">
+      <prefijo>ODO</prefijo>
+      <cantidad>29</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#38/39</caracteristicas>
+   </codigo>
+   <codigo id="50-479">
+      <prefijo>ODO</prefijo>
+      <cantidad>225</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#61/62</caracteristicas>
+   </codigo>
+   <codigo id="50-480">
+      <prefijo>ODO</prefijo>
+      <cantidad>107</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#31-L</caracteristicas>
+   </codigo>
+   <codigo id="50-482">
+      <prefijo>ODO</prefijo>
+      <cantidad>129</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#22</caracteristicas>
+   </codigo>
+   <codigo id="50-484">
+      <prefijo>ODO</prefijo>
+      <cantidad>2764</cantidad>
+      <categoria>EXCAVATERS</categoria>
+      <caracteristicas>#89/92 CLEOID, DISCOID</caracteristicas>
+   </codigo>
+   <codigo id="50-485">
+      <prefijo>ODO</prefijo>
+      <cantidad>644</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY 1/2</caracteristicas>
+   </codigo>
+   <codigo id="50-486">
+      <prefijo>ODO</prefijo>
+      <cantidad>346</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY 3/4</caracteristicas>
+   </codigo>
+   <codigo id="50-488">
+      <prefijo>ODO</prefijo>
+      <cantidad>96</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY 7/8</caracteristicas>
+   </codigo>
+   <codigo id="50-489">
+      <prefijo>ODO</prefijo>
+      <cantidad>354</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY 9/10</caracteristicas>
+   </codigo>
+   <codigo id="50-490">
+      <prefijo>ODO</prefijo>
+      <cantidad>487</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY11/12</caracteristicas>
+   </codigo>
+   <codigo id="50-491">
+      <prefijo>ODO</prefijo>
+      <cantidad>347</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GRACEY 13/14</caracteristicas>
+   </codigo>
+   <codigo id="50-492">
+      <prefijo>ODO</prefijo>
+      <cantidad>206</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>COLUMBIA CO 4L/4R</caracteristicas>
+   </codigo>
+   <codigo id="50-493">
+      <prefijo>ODO</prefijo>
+      <cantidad>52</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>COLUMBIA CO 13/14</caracteristicas>
+   </codigo>
+   <codigo id="50-494">
+      <prefijo>ODO</prefijo>
+      <cantidad>90</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>COLUMBIA 2L/2R</caracteristicas>
+   </codigo>
+   <codigo id="50-495">
+      <prefijo>ODO</prefijo>
+      <cantidad>322</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>McCALLS MC13/14</caracteristicas>
+   </codigo>
+   <codigo id="50-496">
+      <prefijo>ODO</prefijo>
+      <cantidad>209</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>MCCALLS MC13s/14s</caracteristicas>
+   </codigo>
+   <codigo id="50-498">
+      <prefijo>ODO</prefijo>
+      <cantidad>4</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>MCCALLS MC 17S/18S</caracteristicas>
+   </codigo>
+   <codigo id="50-502">
+      <prefijo>ODO</prefijo>
+      <cantidad>129</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GOLDMAN-FOX MOLLAR 4</caracteristicas>
+   </codigo>
+   <codigo id="50-503">
+      <prefijo>ODO</prefijo>
+      <cantidad>101</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>GOLDMAN-FOX SCALAR 5</caracteristicas>
+   </codigo>
+   <codigo id="50-507">
+      <prefijo>ODO</prefijo>
+      <cantidad>142</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>JACQUETTE U-15</caracteristicas>
+   </codigo>
+   <codigo id="50-509">
+      <prefijo>ODO</prefijo>
+      <cantidad>24</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>JACQUETTE JAC 1Y/1YS</caracteristicas>
+   </codigo>
+   <codigo id="50-511">
+      <prefijo>ODO</prefijo>
+      <cantidad>83</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>JACQUETTE JAC 2YS/3YS</caracteristicas>
+   </codigo>
+   <codigo id="50-513">
+      <prefijo>ODO</prefijo>
+      <cantidad>330</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>JACQUETTE JAC 2S/3S</caracteristicas>
+   </codigo>
+   <codigo id="50-515">
+      <prefijo>ODO</prefijo>
+      <cantidad>161</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>#3</caracteristicas>
+   </codigo>
+   <codigo id="50-516">
+      <prefijo>ODO</prefijo>
+      <cantidad>86</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>#12</caracteristicas>
+   </codigo>
+   <codigo id="50-517">
+      <prefijo>ODO</prefijo>
+      <cantidad>33</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>#204S</caracteristicas>
+   </codigo>
+   <codigo id="50-521">
+      <prefijo>ODO</prefijo>
+      <cantidad>393</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>U15/30</caracteristicas>
+   </codigo>
+   <codigo id="50-522">
+      <prefijo>ODO</prefijo>
+      <cantidad>278</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>U15/33</caracteristicas>
+   </codigo>
+   <codigo id="50-523">
+      <prefijo>ODO</prefijo>
+      <cantidad>309</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>H 5/33</caracteristicas>
+   </codigo>
+   <codigo id="50-525">
+      <prefijo>ODO</prefijo>
+      <cantidad>257</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>TA 2/3</caracteristicas>
+   </codigo>
+   <codigo id="50-526">
+      <prefijo>ODO</prefijo>
+      <cantidad>109</cantidad>
+      <categoria>SCALERS</categoria>
+      <caracteristicas>CK 6</caracteristicas>
+   </codigo>
+   <codigo id="50-530">
+      <prefijo>ODO</prefijo>
+      <cantidad>113</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CURETTE-MOLAR</caracteristicas>
+   </codigo>
+   <codigo id="50-531">
+      <prefijo>ODO</prefijo>
+      <cantidad>87</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>SCALER</caracteristicas>
+   </codigo>
+   <codigo id="50-538">
+      <prefijo>ODO</prefijo>
+      <cantidad>129</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CURETTE</caracteristicas>
+   </codigo>
+   <codigo id="50-546">
+      <prefijo>ODO</prefijo>
+      <cantidad>71</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CRANE-KAPLAN KNIFE</caracteristicas>
+   </codigo>
+   <codigo id="50-547">
+      <prefijo>ODO</prefijo>
+      <cantidad>79</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CRANE-KAPLAN DISSECTOR</caracteristicas>
+   </codigo>
+   <codigo id="50-549">
+      <prefijo>ODO</prefijo>
+      <cantidad>252</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CRANE-KAPLAN SCALER</caracteristicas>
+   </codigo>
+   <codigo id="50-550">
+      <prefijo>ODO</prefijo>
+      <cantidad>216</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CRANE-KAPLAN FILE</caracteristicas>
+   </codigo>
+   <codigo id="50-551">
+      <prefijo>ODO</prefijo>
+      <cantidad>214</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>CRANE-KAPLAN FILE</caracteristicas>
+   </codigo>
+   <codigo id="50-552">
+      <prefijo>ODO</prefijo>
+      <cantidad>35</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>TISSUE NIPPER 5</caracteristicas>
+   </codigo>
+   <codigo id="50-554">
+      <prefijo>ODO</prefijo>
+      <cantidad>173</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>BLADE BREAKER 4 1/2</caracteristicas>
+   </codigo>
+   <codigo id="50-555">
+      <prefijo>ODO</prefijo>
+      <cantidad>147</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>BLADE BREAKER 5 1/4</caracteristicas>
+   </codigo>
+   <codigo id="50-557">
+      <prefijo>ODO</prefijo>
+      <cantidad>101</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>ROSS PERIO NEEDLE HOLDER 5 1/2</caracteristicas>
+   </codigo>
+   <codigo id="50-561">
+      <prefijo>ODO</prefijo>
+      <cantidad>173</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PROBE/EXPLORER GF 17</caracteristicas>
+   </codigo>
+   <codigo id="50-562">
+      <prefijo>ODO</prefijo>
+      <cantidad>154</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PROBE GF 18</caracteristicas>
+   </codigo>
+   <codigo id="50-563">
+      <prefijo>ODO</prefijo>
+      <cantidad>59</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PROBE/EXPLORER PE 1-23</caracteristicas>
+   </codigo>
+   <codigo id="50-564">
+      <prefijo>ODO</prefijo>
+      <cantidad>18</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PROBE C</caracteristicas>
+   </codigo>
+   <codigo id="50-567">
+      <prefijo>ODO</prefijo>
+      <cantidad>60</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PF 4</caracteristicas>
+   </codigo>
+   <codigo id="50-568">
+      <prefijo>ODO</prefijo>
+      <cantidad>148</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PF 5</caracteristicas>
+   </codigo>
+   <codigo id="50-569">
+      <prefijo>ODO</prefijo>
+      <cantidad>117</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>LAD 3</caracteristicas>
+   </codigo>
+   <codigo id="50-570">
+      <prefijo>ODO</prefijo>
+      <cantidad>248</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>WDS 1</caracteristicas>
+   </codigo>
+   <codigo id="50-571">
+      <prefijo>ODO</prefijo>
+      <cantidad>70</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>WDS 2</caracteristicas>
+   </codigo>
+   <codigo id="50-572">
+      <prefijo>ODO</prefijo>
+      <cantidad>129</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>WDS 3</caracteristicas>
+   </codigo>
+   <codigo id="50-573">
+      <prefijo>ODO</prefijo>
+      <cantidad>40</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PF W3</caracteristicas>
+   </codigo>
+   <codigo id="50-574">
+      <prefijo>ODO</prefijo>
+      <cantidad>108</cantidad>
+      <categoria>PERIODONTAL</categoria>
+      <caracteristicas>PF G 4/5</caracteristicas>
+   </codigo>
+   <codigo id="51-576">
+      <prefijo>ODO</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>AMALGAM PLUGGERS</categoria>
+      <caracteristicas>BLACK APBL 1-2</caracteristicas>
+   </codigo>
+   <codigo id="51-575">
+      <prefijo>ODO</prefijo>
+      <cantidad>27</cantidad>
+      <categoria>AMALGAM PLUGGERS</categoria>
+      <caracteristicas>BEHRMAN APB 1</caracteristicas>
+   </codigo>
+   <codigo id="51-577">
+      <prefijo>ODO</prefijo>
+      <cantidad>260</cantidad>
+      <categoria>AMALGAM PLUGGERS</categoria>
+      <caracteristicas>MARQUETTE MAR 0/1</caracteristicas>
+   </codigo>
+   <codigo id="51-578">
+      <prefijo>ODO</prefijo>
+      <cantidad>1275</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 1</caracteristicas>
+   </codigo>
+   <codigo id="51-579">
+      <prefijo>ODO</prefijo>
+      <cantidad>643</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 28-29</caracteristicas>
+   </codigo>
+   <codigo id="51-580">
+      <prefijo>ODO</prefijo>
+      <cantidad>67</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 34</caracteristicas>
+   </codigo>
+   <codigo id="51-581">
+      <prefijo>ODO</prefijo>
+      <cantidad>984</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 27/29</caracteristicas>
+   </codigo>
+   <codigo id="51-582">
+      <prefijo>ODO</prefijo>
+      <cantidad>852</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 21B</caracteristicas>
+   </codigo>
+   <codigo id="51-583">
+      <prefijo>ODO</prefijo>
+      <cantidad>246</cantidad>
+      <categoria>BURNISHERS</categoria>
+      <caracteristicas>BURN 21B</caracteristicas>
+   </codigo>
+   <codigo id="51-586B">
+      <prefijo>ODO</prefijo>
+      <cantidad>35</cantidad>
+      <categoria>CROWN REMOVER</categoria>
+      <caracteristicas>CROWN REMOVER</caracteristicas>
+   </codigo>
+   <codigo id="51-587C">
+      <prefijo>ODO</prefijo>
+      <cantidad>2</cantidad>
+      <categoria>CROWN REMOVER</categoria>
+      <caracteristicas>CROWN REMOVER</caracteristicas>
+   </codigo>
+   <codigo id="52-578">
+      <prefijo />
+      <cantidad>150</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="52-579">
+      <prefijo />
+      <cantidad>150</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="52-586">
+      <prefijo>ODO</prefijo>
+      <cantidad>227</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>MEDIUM</caracteristicas>
+   </codigo>
+   <codigo id="52-590">
+      <prefijo>ODO</prefijo>
+      <cantidad>195</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>JUMBO</caracteristicas>
+   </codigo>
+   <codigo id="52-592">
+      <prefijo>ODO</prefijo>
+      <cantidad>594</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>NYLON TIP AND PLUNGER</caracteristicas>
+   </codigo>
+   <codigo id="52-593">
+      <prefijo>ODO</prefijo>
+      <cantidad>499</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>MEDIUM/LARGE</caracteristicas>
+   </codigo>
+   <codigo id="52-597">
+      <prefijo>ODO</prefijo>
+      <cantidad>257</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>LARGE/JUMBO</caracteristicas>
+   </codigo>
+   <codigo id="52-599">
+      <prefijo>ODO</prefijo>
+      <cantidad>293</cantidad>
+      <categoria>AMALGAM CARRIERS</categoria>
+      <caracteristicas>JUMBO/JUMBO</caracteristicas>
+   </codigo>
+   <codigo id="53-306">
+      <prefijo />
+      <cantidad>182</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="53-602">
+      <prefijo>ODO</prefijo>
+      <cantidad>43</cantidad>
+      <categoria>MATRIX RETAINERS AND BANDS</categoria>
+      <caracteristicas>#1</caracteristicas>
+   </codigo>
+   <codigo id="53-605">
+      <prefijo>ODO</prefijo>
+      <cantidad>303</cantidad>
+      <categoria>MATRIX RETAINERS AND BANDS</categoria>
+      <caracteristicas>JUNIOR</caracteristicas>
+   </codigo>
+   <codigo id="53-617">
+      <prefijo>ODO</prefijo>
+      <cantidad>156</cantidad>
+      <categoria>STRIP HOLDER CLIPS</categoria>
+      <caracteristicas>STRIP HOLDER CLIP, 45</caracteristicas>
+   </codigo>
+   <codigo id="54-460">
+      <prefijo />
+      <cantidad>168</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="54-634">
+      <prefijo>ODO</prefijo>
+      <cantidad>163</cantidad>
+      <categoria>WAX CARVERS</categoria>
+      <caracteristicas>HOLLENBACK 3S</caracteristicas>
+   </codigo>
+   <codigo id="54-635">
+      <prefijo>ODO</prefijo>
+      <cantidad>54</cantidad>
+      <categoria>WAX CARVERS</categoria>
+      <caracteristicas>WARD 1</caracteristicas>
+   </codigo>
+   <codigo id="54-636">
+      <prefijo>ODO</prefijo>
+      <cantidad>26</cantidad>
+      <categoria>WAX CARVERS</categoria>
+      <caracteristicas>WARD </caracteristicas>
+   </codigo>
+   <codigo id="54-638">
+      <prefijo>ODO</prefijo>
+      <cantidad>45</cantidad>
+      <categoria>WAX CARVERS</categoria>
+      <caracteristicas>WALL 3</caracteristicas>
+   </codigo>
+   <codigo id="54-639">
+      <prefijo>ODO</prefijo>
+      <cantidad>435</cantidad>
+      <categoria>WAX CARVERS</categoria>
+      <caracteristicas>LECRON INLAY</caracteristicas>
+   </codigo>
+   <codigo id="54-641">
+      <prefijo>ODO</prefijo>
+      <cantidad>100</cantidad>
+      <categoria>WAX AND PORCELAIN CARVERS</categoria>
+      <caracteristicas>ROACH WAX</caracteristicas>
+   </codigo>
+   <codigo id="54-644">
+      <prefijo>ODO</prefijo>
+      <cantidad>193</cantidad>
+      <categoria>WAX AND PORCELAIN CARVERS</categoria>
+      <caracteristicas>FAHNENSTOCK 6 3/4</caracteristicas>
+   </codigo>
+   <codigo id="54-645">
+      <prefijo>ODO</prefijo>
+      <cantidad>995</cantidad>
+      <categoria>WAX SPATULAS</categoria>
+      <caracteristicas>WAX SPATULAS</caracteristicas>
+   </codigo>
+   <codigo id="54-648">
+      <prefijo>ODO</prefijo>
+      <cantidad>9</cantidad>
+      <categoria>WAX SPATULAS</categoria>
+      <caracteristicas>SMALL END WITH ONE FLAT SIDE</caracteristicas>
+   </codigo>
+   <codigo id="54-650">
+      <prefijo>ODO</prefijo>
+      <cantidad>32</cantidad>
+      <categoria>CEMENT SPATULAS</categoria>
+      <caracteristicas>CEMENT SPATULAS</caracteristicas>
+   </codigo>
+   <codigo id="54-653">
+      <prefijo>ODO</prefijo>
+      <cantidad>162</cantidad>
+      <categoria />
+      <caracteristicas>CEMENT SPATULAS</caracteristicas>
+   </codigo>
+   <codigo id="55-599">
+      <prefijo />
+      <cantidad>55</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="55-661">
+      <prefijo>ODO</prefijo>
+      <cantidad>41</cantidad>
+      <categoria>MISCELLANEOUS LABORATORY INSTRUMENTS</categoria>
+      <caracteristicas>MURPHY PLASTER KNIFE</caracteristicas>
+   </codigo>
+   <codigo id="56-667">
+      <prefijo>ODO</prefijo>
+      <cantidad>258</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>101-WIRE BENDING</caracteristicas>
+   </codigo>
+   <codigo id="56-668">
+      <prefijo>ODO</prefijo>
+      <cantidad>378</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>110-HOW CROWN STR.</caracteristicas>
+   </codigo>
+   <codigo id="56-669">
+      <prefijo />
+      <cantidad>88</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>111-HOW CROWN, CURVED</caracteristicas>
+   </codigo>
+   <codigo id="56-673">
+      <prefijo>ODO</prefijo>
+      <cantidad>195</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>121-LAB AND OFFICE</caracteristicas>
+   </codigo>
+   <codigo id="56-674">
+      <prefijo>ODO</prefijo>
+      <cantidad>75</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>137-GORDON, CONTOURING</caracteristicas>
+   </codigo>
+   <codigo id="56-677">
+      <prefijo>ODO</prefijo>
+      <cantidad>33</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>255-BAADE, BAND AND SHELL REMOVING</caracteristicas>
+   </codigo>
+   <codigo id="56-683">
+      <prefijo>ODO</prefijo>
+      <cantidad>15</cantidad>
+      <categoria>PLIERS</categoria>
+      <caracteristicas>150S-CARBIDE TIPPED LIGATURE CUTTER</caracteristicas>
+   </codigo>
+   <codigo id="57-687">
+      <prefijo>ODO</prefijo>
+      <cantidad>123</cantidad>
+      <categoria>ORTHODONTIC INSTRUMENTS OMITT</categoria>
+      <caracteristicas>300X- ONE PIECE CONSTRUCTION PUSHER</caracteristicas>
+   </codigo>
+   <codigo id="59-707">
+      <prefijo>BIS</prefijo>
+      <cantidad>307</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>MANGO BISTURI #7</caracteristicas>
+   </codigo>
+   <codigo id="59-709">
+      <prefijo>BIS</prefijo>
+      <cantidad>97</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>KNIFE HANDLE 3LA</caracteristicas>
+   </codigo>
+   <codigo id="59-710">
+      <prefijo>BIS</prefijo>
+      <cantidad>48</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>KNIFE HANDLE No 9</caracteristicas>
+   </codigo>
+   <codigo id="59-711">
+      <prefijo>BIS</prefijo>
+      <cantidad>174</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>SIEGEL ROUND KNIFE HANDLE</caracteristicas>
+   </codigo>
+   <codigo id="59-712">
+      <prefijo>BIS</prefijo>
+      <cantidad>199</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>MANGO BISTURI #3</caracteristicas>
+   </codigo>
+   <codigo id="59-716">
+      <prefijo>BIS</prefijo>
+      <cantidad>50</cantidad>
+      <categoria>SCALPEL HANDLES</categoria>
+      <caracteristicas>MANGO BISTURI #4</caracteristicas>
+   </codigo>
+   <codigo id="70-34">
+      <prefijo>ODO</prefijo>
+      <cantidad>600</cantidad>
+      <categoria>CURETTES</categoria>
+      <caracteristicas>G 5/6</caracteristicas>
+   </codigo>
+   <codigo id="DNF-101">
+      <prefijo>ODO</prefijo>
+      <cantidad>168</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER AND LOWER BICUSPIDS AND DECIDUOUS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-105">
+      <prefijo />
+      <cantidad>35</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="DNF-105">
+      <prefijo />
+      <cantidad>40</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="DNF-120">
+      <prefijo>ODO</prefijo>
+      <cantidad>17</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>WITZEL UPPER ROOTS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-13">
+      <prefijo>ODO</prefijo>
+      <cantidad>337</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER BICUSPIDS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-15">
+      <prefijo>ODO</prefijo>
+      <cantidad>23</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND LOWER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-150">
+      <prefijo>ODO</prefijo>
+      <cantidad>62</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER INCISORS, CUSPIDS, BICUSPIDS AND ROOTS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-150 1/2 S">
+      <prefijo>ODO</prefijo>
+      <cantidad>108</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO UPPER INCISORS, BICUSPIDS AND ROOTS, UNIVERSAL, SPRING HANDLE 4 3/4</caracteristicas>
+   </codigo>
+   <codigo id="DNF-150A">
+      <prefijo>ODO</prefijo>
+      <cantidad>288</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER INCISORS, CUSPIDS AND BICUSPIDS, UNIVERSAL, PARALLEL BEAKS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-150AS">
+      <prefijo>ODO</prefijo>
+      <cantidad>75</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER ANTERIORS, SPLIT BEAKS, SERRATED</caracteristicas>
+   </codigo>
+   <codigo id="DNF-151">
+      <prefijo>ODO</prefijo>
+      <cantidad>48</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER-INCISORS, CUSPIDS, BICUSPIDS AND ROOTS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-151 AS">
+      <prefijo>ODO</prefijo>
+      <cantidad>35</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER ANTERIORS, SPLIT BEAKS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-151A">
+      <prefijo>ODO</prefijo>
+      <cantidad>45</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER INCISORS, CUSPIDS, BICUSPIDS UNIVERSAL, PARALLEL BEAKS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-16">
+      <prefijo>ODO</prefijo>
+      <cantidad>845</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND LOWER MOLARS, UNIVERSAL COW HORN</caracteristicas>
+   </codigo>
+   <codigo id="DNF-16S">
+      <prefijo>ODO</prefijo>
+      <cantidad>95</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO LOWER MOLARS, COW HORN</caracteristicas>
+   </codigo>
+   <codigo id="DNF-17">
+      <prefijo>ODO</prefijo>
+      <cantidad>210</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND LOWER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-17S">
+      <prefijo>ODO</prefijo>
+      <cantidad>35</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO LOWER MOLARS, UNIVERSAL, SPRING HANDLE 4 3/4</caracteristicas>
+   </codigo>
+   <codigo id="DNF-1HEN">
+      <prefijo>ODO</prefijo>
+      <cantidad>13</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER INCISORS, HENAHAN</caracteristicas>
+   </codigo>
+   <codigo id="DNF-203">
+      <prefijo>ODO</prefijo>
+      <cantidad>220</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER BICUSPIDS, CUSPIDS, INCISORS AND ROOTS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-210H">
+      <prefijo>ODO</prefijo>
+      <cantidad>63</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>3RD UPPER MOLARS, UNIVERSAL, HOOK HANDLE</caracteristicas>
+   </codigo>
+   <codigo id="DNF-217">
+      <prefijo>ODO</prefijo>
+      <cantidad>156</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST &amp; 2ND LOWER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-23S">
+      <prefijo>ODO</prefijo>
+      <cantidad>28</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO LOWER MOLARS UNIVERSAL, COW HORN, SPRING HANDLE 4 3/4</caracteristicas>
+   </codigo>
+   <codigo id="DNF-24">
+      <prefijo>ODO</prefijo>
+      <cantidad>249</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LIPPER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-286">
+      <prefijo>ODO</prefijo>
+      <cantidad>29</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER BICUSPIS, INCISORS AND ROOTS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-32">
+      <prefijo>ODO</prefijo>
+      <cantidad>296</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER CUSPIDS, BICUSPIDS AND MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-33">
+      <prefijo>ODO</prefijo>
+      <cantidad>61</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER ROOTS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-53R">
+      <prefijo>ODO</prefijo>
+      <cantidad>18</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND UPPER MOLARS, RIGHT</caracteristicas>
+   </codigo>
+   <codigo id="DNF-62">
+      <prefijo>ODO</prefijo>
+      <cantidad>82</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER AND LOWER INCISORS, CUSPIS, BICUSPIDS AND DECIDUOS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-65">
+      <prefijo>ODO</prefijo>
+      <cantidad>29</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER INCISORS, ROOTS AND FRAGMENTS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-73">
+      <prefijo>ODO</prefijo>
+      <cantidad>50</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-73">
+      <prefijo />
+      <cantidad>51</cantidad>
+      <categoria />
+      <caracteristicas />
+   </codigo>
+   <codigo id="DNF-74">
+      <prefijo>ODO</prefijo>
+      <cantidad>117</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER ROOTS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-74N">
+      <prefijo>ODO</prefijo>
+      <cantidad>139</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER, ROOTS, NARROW BREAKS</caracteristicas>
+   </codigo>
+   <codigo id="DNF-85A">
+      <prefijo>ODO</prefijo>
+      <cantidad>51</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER MOLARS, CUSPIDS AND BICUSPIDS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-88L">
+      <prefijo>ODO</prefijo>
+      <cantidad>197</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND UPPER MOLARS, LEFT</caracteristicas>
+   </codigo>
+   <codigo id="DNF-88R">
+      <prefijo>ODO</prefijo>
+      <cantidad>314</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>1ST AND 2ND UPPER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-89">
+      <prefijo>ODO</prefijo>
+      <cantidad>379</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER MOLARS, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-90">
+      <prefijo>ODO</prefijo>
+      <cantidad>77</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER MOLARS, LEFT</caracteristicas>
+   </codigo>
+   <codigo id="DNF-B">
+      <prefijo>ODO</prefijo>
+      <cantidad>154</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO LOWER ROOT, UNIVERSAL, MINI</caracteristicas>
+   </codigo>
+   <codigo id="DNF-C">
+      <prefijo>ODO</prefijo>
+      <cantidad>158</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO LOWER MOLARS, UNIVERSAL MINI</caracteristicas>
+   </codigo>
+   <codigo id="DNF-E">
+      <prefijo>ODO</prefijo>
+      <cantidad>107</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO UPPER FRONT, MINI</caracteristicas>
+   </codigo>
+   <codigo id="DNF-F">
+      <prefijo>ODO</prefijo>
+      <cantidad>63</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO UPPER ROOT, UNIVERSAL, MINI</caracteristicas>
+   </codigo>
+   <codigo id="DNF-FREER">
+      <prefijo>ODO</prefijo>
+      <cantidad>318</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>PERIOSTEAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-H">
+      <prefijo>ODO</prefijo>
+      <cantidad>118</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>PEDO UPPER AND LOWER, UNIVERSAL, MINI</caracteristicas>
+   </codigo>
+   <codigo id="DNF-MD1">
+      <prefijo>ODO</prefijo>
+      <cantidad>315</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER INCISORS, CUSPIDS, BICUSPIDS AND ROOTS: MEAD, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-MD2">
+      <prefijo>ODO</prefijo>
+      <cantidad>168</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>UPPER 1ST, 2ND AND 3RD MOLARS, MEAD, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-MD3">
+      <prefijo>ODO</prefijo>
+      <cantidad>51</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER INCISORS, CUSPIDS, BICUSPIDS AND ROOTS, MEAD UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNF-MD4">
+      <prefijo>ODO</prefijo>
+      <cantidad>225</cantidad>
+      <categoria>EXTRACTING FORCEPS</categoria>
+      <caracteristicas>LOWER 1ST, 2ND AND 3RD MOLARS, MEAD, UNIVERSAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-1R">
+      <prefijo>ODO</prefijo>
+      <cantidad>79</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>SELDIN</caracteristicas>
+   </codigo>
+   <codigo id="DNL-25">
+      <prefijo>ODO</prefijo>
+      <cantidad>55</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRYER</caracteristicas>
+   </codigo>
+   <codigo id="DNL-26">
+      <prefijo>ODO</prefijo>
+      <cantidad>105</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRYER</caracteristicas>
+   </codigo>
+   <codigo id="DNL-301">
+      <prefijo>ODO</prefijo>
+      <cantidad>209</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>APICAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-302 HF">
+      <prefijo>ODO</prefijo>
+      <cantidad>108</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>APICAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-303">
+      <prefijo>ODO</prefijo>
+      <cantidad>178</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>APICAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-303 HF">
+      <prefijo>ODO</prefijo>
+      <cantidad>118</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>APICAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-34S">
+      <prefijo>ODO</prefijo>
+      <cantidad>93</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRANE PICK</caracteristicas>
+   </codigo>
+   <codigo id="DNL-44">
+      <prefijo>ODO</prefijo>
+      <cantidad>122</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRYER</caracteristicas>
+   </codigo>
+   <codigo id="DNL-45">
+      <prefijo>ODO</prefijo>
+      <cantidad>134</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRYER</caracteristicas>
+   </codigo>
+   <codigo id="DNL-4L">
+      <prefijo>ODO</prefijo>
+      <cantidad>8</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>SELDIN</caracteristicas>
+   </codigo>
+   <codigo id="DNL-4R">
+      <prefijo>ODO</prefijo>
+      <cantidad>13</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>SELDIN</caracteristicas>
+   </codigo>
+   <codigo id="DNL-6X">
+      <prefijo>ODO</prefijo>
+      <cantidad>198</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>POOTS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-78">
+      <prefijo>ODO</prefijo>
+      <cantidad>148</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>ROOT TIP</caracteristicas>
+   </codigo>
+   <codigo id="DNL-79">
+      <prefijo>ODO</prefijo>
+      <cantidad>283</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>ROOT TIP</caracteristicas>
+   </codigo>
+   <codigo id="DNL-7X">
+      <prefijo>ODO</prefijo>
+      <cantidad>169</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>POOTS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-8">
+      <prefijo>ODO</prefijo>
+      <cantidad>78</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>CRANE PICK</caracteristicas>
+   </codigo>
+   <codigo id="DNL-80">
+      <prefijo>ODO</prefijo>
+      <cantidad>290</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>ROOT TIP</caracteristicas>
+   </codigo>
+   <codigo id="DNL-H1">
+      <prefijo>ODO</prefijo>
+      <cantidad>30</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>HEIDBRINK ROOT-TIP PICKS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-H2">
+      <prefijo>ODO</prefijo>
+      <cantidad>81</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>HEIDBRINK ROOT-TIP PICKS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-H2-3">
+      <prefijo>ODO</prefijo>
+      <cantidad>194</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>HEIDBRINK ROOT-TIP PICKS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-H3">
+      <prefijo>ODO</prefijo>
+      <cantidad>86</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>HEIDBRINK ROOT-TIP PICKS</caracteristicas>
+   </codigo>
+   <codigo id="DNL-M9">
+      <prefijo>ODO</prefijo>
+      <cantidad>30</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>PERIOSTEAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-OHL">
+      <prefijo>ODO</prefijo>
+      <cantidad>150</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>PERIOSTEAL</caracteristicas>
+   </codigo>
+   <codigo id="DNL-W2-WEST">
+      <prefijo>ODO</prefijo>
+      <cantidad>303</cantidad>
+      <categoria>ELEVATORS</categoria>
+      <caracteristicas>PERIOSTEAL</caracteristicas>
+   </codigo>
+   <codigo id="SC">
+      <prefijo>TIJ</prefijo>
+      <cantidad>180</cantidad>
+      <categoria />
+      <caracteristicas>TIJERA PUNTA FINA</caracteristicas>
+   </codigo>
+</document>

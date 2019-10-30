@@ -1,0 +1,26 @@
+# No Nut November
+
+Welcome to the official NNN page owned by the Nut Ascension Consortium (NAC).
+
+# Countdown
+
+$countdown 
+
+## Rules
+
+### Obligatory Rules
+
+1. You must *not* nut. No negotiations.
+
+### Opt-In Rules
+
+These are recommended, because although they will make the experience more difficult, they will decrease your chances of being provoked.
+And of course, you'll feel like you just bested yourself once the month finishes.
+
+1. You must not engage in any sexual activity, alone or with someone else.
+2. You must not consume any erotic multimedia.
+
+### Additional Normatives
+
+1. You are allowed to give people a harder (😉) time *only if you are playing too*. Spectators don't play!
+2. Wet dreams do not signify a loss, as it's not your fault.
